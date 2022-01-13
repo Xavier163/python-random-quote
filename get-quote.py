@@ -1,4 +1,4 @@
-def main():
+def primary():
 
 
 
@@ -13,4 +13,4 @@ def main():
   #print(quotes)
 
 if __name__== "__main__":
-  main()
+ primary()
